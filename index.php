@@ -73,7 +73,7 @@
             <div class="hero-banner__content">
               <h1>Selamat Datang</h1>
               <p>Portal ini adalah gerbang Aplikasi Pengurusan Buku Teks KPM. Dibangunkan bertujuan untuk memudahkan urusan pengurusan stok dan menjadi pusat sehenti data untuk kegunaan pihak pengurusan di semua peringkat Bahagian/JPN/PPD/Sekolah.</p>
-              <a class="button bg" href="stok/emonitoring">1. Aplikasi Pengurusan Stok Buku Teks KPM</a>
+              <a class="button bg" href="stok/index.php">1. Aplikasi Pengurusan Stok Buku Teks KPM</a>
             </div>
           </div>
         </div>
